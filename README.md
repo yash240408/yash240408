@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash240408" alt="yash240408" /></a> </p>
 
-- 🔭 I’m currently working on **DSA**
+- 🔭 I’m currently working on **DSA, Dart and Flutter**
 
-- 🌱 I’m currently learning **Flutter,C++**
+- 🌱 I’m currently learning **Flutter,C,C++**
 
-- 👯 I’m looking to collaborate on **Django**
+- 👯 I’m looking to collaborate on **Django, Flask, IoT**
 
 - 🤝 I’m looking for help with **DSA**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, IoT**
 
 - 📫 How to reach me **yash.mistry.g43@gmail.com**
 
