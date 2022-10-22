@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **yash.mistry.g43@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>**mailto:yash.mistry.g43@gmail.com**
 <p align="left">
 </p>
 
