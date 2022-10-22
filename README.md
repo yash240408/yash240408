@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
-mailto:yash.mistry.g43@gmail.com
+  <a href="mailto:yash.mistry.g43@gmail.com">Contact Me</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
