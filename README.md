@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Mistry</h1>
-<h3 align="center">A passionate all rounder developer from India</h3>
+<h3 align="center">A passionate Python developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash240408&label=Profile%20views&color=0e75b6&style=flat" alt="yash240408" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Django, Flask, IoT**
 
-- 🤝 I’m looking for help with **DSA**
+- 🤝 I’m looking for help with **DSA, Cloud Technologies**
 
 - 💬 Ask me about **Python, IoT**
 
